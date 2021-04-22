@@ -11,6 +11,6 @@
 | GAN 技术演进及人脸生成应用     | LSGAN、WGAN；StyleGAN、StyleGAN2                             | 人脸生成（StyleGAN2）        |
 | 图像翻译及人像卡通化           | CGAN、Pixel2Pixel、CycleGAN、U-GAT-IT；卡通化：Photo2Cartoon | 人像卡通化                   |
 | 超分辨率及老视频修复           | 图像超分：RCAN、SRGAN、ESRGAN；视频超分：EDVR、RealSR；图像修复：DeOldify、DeepRemaster；补帧模型：DAIN | 超分辨率、老视频修复         |
-| 动作迁移理论及实践             |                                                              |                              |
+| 动作迁移理论及实践             | X2Face（基础）、FOMM、                                       |                              |
 | wav2lip 唇形合成理论及趣味应用 |                                                              |                              |
 
