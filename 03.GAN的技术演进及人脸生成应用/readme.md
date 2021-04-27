@@ -34,6 +34,12 @@
 
 ![GAN_optimizer_inference](assets/GAN_optimizer_inference.png)
 
+其中关于 $ P_r(x) + P_g(x) $ 怎么变成 2 的推导，我们可以参考 [GAN(一)][]
+
+![GAN_Optimize_Inference](assets/GAN_Optimize_Inference.png)
+
+
+
 其中将最后的式子变成了 KL散度，进而变成了 JS散度
 
 关于 KL 散度，可以参考这篇文章 [KL散度的含义与性质][]
@@ -345,6 +351,7 @@ else:
 
 
 
+[GAN(一)]: https://www.cnblogs.com/kai-nutshell/p/12968454.html	"GAN(一)"
 [GAN训练不稳定原因]: https://blog.csdn.net/qq_32172681/article/details/99674440	"GAN训练不稳定原因"
 [KL散度的含义与性质]: https://blog.csdn.net/qq_40406773/article/details/80630280	"KL散度的含义与性质"
 [KL散度、JS散度、Wasserstein距离]: https://www.cnblogs.com/jiangxinyang/p/10563113.html	"KL散度、JS散度、Wasserstein距离"
